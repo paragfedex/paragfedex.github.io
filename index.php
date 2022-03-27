@@ -85,7 +85,11 @@ else{
                     <div class="col-md-12">
                         <div class="row">
              <div class="col-md-3"></div>
-               
+<style>
+body {
+  background-image: url('1.jpeg');
+}
+</style>
                           <div class="col-md-6 d-flex justify-content-center align-items-center">
                               <div class="card white darken-1">
 
